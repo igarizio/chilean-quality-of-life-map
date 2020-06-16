@@ -1,7 +1,0 @@
-name: chilean_quality_of_life
-channels:
-  - defaults
-dependencies:
-  - geopandas
-  - pyreadstat
-  - folium
