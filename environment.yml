@@ -2,9 +2,6 @@ name: chilean_quality_of_life
 channels:
   - defaults
 dependencies:
-  - ipykernel
   - geopandas
   - pyreadstat
   - folium
-prefix: C:\Users\iacop\.conda\envs\chilean_quality_of_life
-
